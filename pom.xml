@@ -10,7 +10,7 @@
 	<groupId>com.wf.hackathon</groupId>
 	<artifactId>diversity</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>diversity</name>
 	<description>Diversity_Hackathon</description>
 	<properties>
